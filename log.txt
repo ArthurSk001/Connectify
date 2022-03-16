@@ -9,3 +9,4 @@
 0651. ✨ feat: enable dark mode toggle
 0977. 🔧 refactor: organize models into subfolders
 0015. ✨ feat: implement quiz timer feature
+0701. 🔧 refactor: clean up auth middleware
