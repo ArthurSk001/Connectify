@@ -27,3 +27,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0087. ✨ feat: add export to CSV option
 0916. ♻️ chore: bump dependencies
+0079. 🐛 fix: correct typo in registration form
