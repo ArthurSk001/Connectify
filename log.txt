@@ -33,3 +33,4 @@
 0160. ♻️ chore: bump dependencies
 0514. 🐛 fix: fix broken CSS in mobile view
 0091. ✨ feat: add user authentication
+0401. 🚀 perf: reduce image load time
