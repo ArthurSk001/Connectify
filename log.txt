@@ -52,3 +52,4 @@
 0585. 🚀 perf: lazy-load components
 0607. 🐛 fix: prevent crash on empty input
 0529. 📚 docs: write FAQ section
+0084. 🐛 fix: handle 500 error in quiz API
