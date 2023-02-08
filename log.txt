@@ -53,3 +53,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0529. 📚 docs: write FAQ section
 0084. 🐛 fix: handle 500 error in quiz API
+0669. ✨ feat: enable dark mode toggle
