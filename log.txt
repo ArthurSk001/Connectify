@@ -57,3 +57,4 @@
 0395. 📚 docs: write FAQ section
 0512. 🚀 perf: reduce image load time
 0048. 📚 docs: update README with setup steps
+0159. 🚀 perf: lazy-load components
