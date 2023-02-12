@@ -56,3 +56,4 @@
 0669. ✨ feat: enable dark mode toggle
 0395. 📚 docs: write FAQ section
 0512. 🚀 perf: reduce image load time
+0048. 📚 docs: update README with setup steps
