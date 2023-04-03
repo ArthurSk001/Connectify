@@ -66,3 +66,4 @@
 0186. ✅ test: test user registration edge cases
 0580. ♻️ chore: bump dependencies
 0475. 🔧 refactor: clean up auth middleware
+0151. ✅ test: add unit test for quiz service
