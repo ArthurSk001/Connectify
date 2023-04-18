@@ -69,3 +69,4 @@
 0151. ✅ test: add unit test for quiz service
 0556. ✨ feat: support email verification
 0074. ♻️ chore: add GitHub actions badge
+0348. ✅ test: test user registration edge cases
