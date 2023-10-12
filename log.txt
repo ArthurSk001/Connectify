@@ -97,3 +97,4 @@
 0005. ✅ test: add unit test for quiz service
 0487. 🎨 style: reformat files with black
 0464. 🎨 style: remove trailing whitespace
+0917. ✅ test: add integration test for /submit endpoint
