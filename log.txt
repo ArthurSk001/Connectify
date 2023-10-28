@@ -100,3 +100,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0274. 🔧 refactor: refactor quiz grading logic
 0681. ✨ feat: create admin dashboard
+0397. 🐛 fix: handle 500 error in quiz API
