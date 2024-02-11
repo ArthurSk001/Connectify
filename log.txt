@@ -111,3 +111,4 @@
 0221. ✨ feat: add user authentication
 0454. ♻️ chore: bump dependencies
 0463. 🚀 perf: reduce image load time
+0657. 🎨 style: standardize quote style
