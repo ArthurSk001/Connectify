@@ -118,3 +118,4 @@
 0682. ♻️ chore: rename env.example
 0675. 🔧 refactor: organize models into subfolders
 0358. 🚀 perf: reduce image load time
+0713. 🐛 fix: handle 500 error in quiz API
