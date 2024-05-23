@@ -124,3 +124,4 @@
 0451. ✨ feat: support email verification
 0619. ✨ feat: create admin dashboard
 0180. ✨ feat: add export to CSV option
+0649. 📚 docs: update README with setup steps
