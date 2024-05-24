@@ -125,3 +125,4 @@
 0619. ✨ feat: create admin dashboard
 0180. ✨ feat: add export to CSV option
 0649. 📚 docs: update README with setup steps
+0195. 📚 docs: clarify environment setup
