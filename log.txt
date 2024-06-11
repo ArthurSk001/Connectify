@@ -127,3 +127,4 @@
 0649. 📚 docs: update README with setup steps
 0195. 📚 docs: clarify environment setup
 0210. 🎨 style: apply consistent indentation
+0854. ♻️ chore: rename env.example
