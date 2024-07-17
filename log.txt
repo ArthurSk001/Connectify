@@ -132,3 +132,4 @@
 0404. 📚 docs: improve code comments in utils
 0825. 🔧 refactor: split large controller into smaller functions
 0545. 🎨 style: standardize quote style
+0090. ✅ test: increase coverage on auth module
