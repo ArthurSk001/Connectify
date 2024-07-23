@@ -134,3 +134,4 @@
 0545. 🎨 style: standardize quote style
 0090. ✅ test: increase coverage on auth module
 0911. ✅ test: increase coverage on auth module
+0419. 🎨 style: remove trailing whitespace
