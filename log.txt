@@ -150,3 +150,4 @@
 0252. 🎨 style: remove trailing whitespace
 0133. 🐛 fix: fix null pointer exception on login
 0847. ♻️ chore: clean up unused files
+0357. ✅ test: add unit test for quiz service
