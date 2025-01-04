@@ -162,3 +162,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0614. 🚀 perf: reduce image load time
 0612. ✅ test: test user registration edge cases
+0207. 🐛 fix: prevent crash on empty input
