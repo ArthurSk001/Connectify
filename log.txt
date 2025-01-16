@@ -163,3 +163,4 @@
 0614. 🚀 perf: reduce image load time
 0612. ✅ test: test user registration edge cases
 0207. 🐛 fix: prevent crash on empty input
+0055. 📚 docs: update README with setup steps
