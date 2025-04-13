@@ -178,3 +178,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0954. 🚀 perf: cache repeated calculations
 0986. 📚 docs: document token refresh logic
+0056. ♻️ chore: rename env.example
