@@ -189,3 +189,4 @@
 0022. 📚 docs: document token refresh logic
 0633. ✨ feat: add user authentication
 0177. 📚 docs: add API usage examples
+0865. ♻️ chore: add GitHub actions badge
