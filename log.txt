@@ -190,3 +190,4 @@
 0633. ✨ feat: add user authentication
 0177. 📚 docs: add API usage examples
 0865. ♻️ chore: add GitHub actions badge
+0065. ✅ test: add integration test for /submit endpoint
